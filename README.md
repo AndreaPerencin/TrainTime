@@ -1,4 +1,4 @@
-TrainTime 
+## TrainTime 
 
 TrainTime is a Python GUI application that displays real-time train information for the Dublin Area Rapid Transit (DART) service. It fetches data using the official Irish Rail API.
 
